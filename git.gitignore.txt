@@ -1,0 +1,11 @@
+# Ignore system files and build outputs
+*.class
+*.log
+.DS_Store
+*.iml
+*.tmp
+.idea/
+.vscode/
+bin/
+out/
+AppData/
